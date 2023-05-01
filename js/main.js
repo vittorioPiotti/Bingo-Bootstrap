@@ -240,7 +240,7 @@ class Botteghino {
     getRegole() {return "Puoi acquistare minimo " + this.min + " cartella e massimo "+ this.max+" cartelle. " + this.regole;}
     getNome() {return this.nome;}
     getDescrizione() {return this.descrizione;}
-    getPath() {return "../img/" + this.path;}
+    getPath() {return "./img/" + this.path;}
     eliminaUltimaCartella(){
         for(let i = this.cartella.length -1; i >= 0; i --){
             if(this.cartella[i].getCartellaPronta() == false){
@@ -296,18 +296,7 @@ function sceltaTipoCartella(tipoCartella){
     statoSceltaTipoCartella = tipoCartella;
     inizializzaPartita();
 }
-function inizializzaFooter(){
-    let generaFooter = "";
-    let svgFooter = new Array (SVG_FACEBOOK,SVG_INSTAGRAM,SVG_TWITTER);
-    for(let i = 0; i < svgFooter.length;i++){
-        generaFooter +=  "<li class='nav-item me-3' >";
-        generaFooter +="<a href='#' class='nav-link px-2 text-muted btn btn-light border-0 rounded-circle'>";
-        generaFooter += svgFooter[i]; 
-        generaFooter +="</a>";
-        generaFooter +="</li>";
-    }
-    document.getElementsByClassName("nav")[0].innerHTML = generaFooter;
-}
+
 
 
 function eliminaCartellaScelta(tipoCartella,idCartella,eliminazioneSecondaria){
@@ -339,8 +328,8 @@ function cambiaStatoCartella(tipoCartella,idCartella){
     
 }
 function inizializzaTipoCartella(tipoCartella,nomeCartella,idCartella,cartellaPronta){
-    let lT = 405;//370 telefono
-    let hT = 220;//200 telefono
+    let lT = 370;//470 telefono - 405 computer
+    let hT = 200;//200 telefono - 220 computer
     let numXrg = 5;
     let svgLock = SVG_LOCK_S;
     if(cartellaPronta != true)svgLock = SVG_UNLOCK_S;
@@ -402,7 +391,7 @@ function estraiNumero(){
     document.getElementsByClassName("cella"+ numero)[0].classList.add("borderd-light");
     document.getElementsByClassName("cella"+ numero)[0].classList.add("bg-warning");
     inizializzaNumeriCartelle(statoSceltaTipoCartella);
-    document.getElementsByClassName("numeroEstratto")[0].innerHTML = "<button class='text-dark bg-warning float-end border-5 rounded-circle fs-3 fw-bold'style='width:50px;height:50px;pointer-events: none;cursor: default;'>"+numero+"</button> "
+    document.getElementsByClassName("numeroEstratto")[0].innerHTML = "<button class='text-dark bg-warning float-end border-5 rounded-circle fs-3 fw-bold' style='width:50px;height:50px;pointer-events:none;cursor:default;display:flex;justify-content:center;align-items:center;'>"+numero+"</button> ";
     controllaVincita();
     document.getElementsByClassName("montePremi")[0].innerHTML = inizializzaMontePremi();
 
@@ -849,7 +838,7 @@ function inizializzaHeader(){
 function inizializzaPartita(){
     
     
-    inizializzaFooter();
+  
     inizializzaHeader();
     switch(statoSceltaTipoCartella){
         case NESSUNA:

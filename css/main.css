@@ -1,0 +1,10 @@
+#linkGitHub{
+    text-decoration: none; 
+    color: black; 
+    transition:0.5s;
+}
+
+#linkGitHub:hover {
+    color: #008cff; 
+    transition:0.5s;
+}
