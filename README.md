@@ -1,4 +1,4 @@
-# Documentazione del Progetto Tombola Online
+# Documentazione del Progetto Tombola Syngle Player
 
 ## Indice
 
