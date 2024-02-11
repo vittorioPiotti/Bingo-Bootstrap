@@ -1,4 +1,4 @@
-# Documentazione Tombola Giocatore Singolo
+# Documentazione Bingo Giocatore Singolo
 
 ## Indice
 
