@@ -1,4 +1,4 @@
-# Documentazione del Progetto Tombola Syngle Player
+# Documentazione Tombola Giocatore Singolo
 
 ## Indice
 
