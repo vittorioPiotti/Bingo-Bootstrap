@@ -12,7 +12,7 @@
 
 ## 1. Introduzione
 
-Il progetto Tombola Online è un sito web che permette agli utenti di giocare alla tombola in modalità singleplayer. Gli utenti possono acquistare cartelle del botteghino o del banco e visualizzare i numeri estratti e i premi vinti durante il gioco.
+Il progetto Bingo Singolo Giocatore è un sito web che permette agli utenti di giocare alla tombola in modalità singleplayer. Gli utenti possono acquistare cartelle del botteghino o del banco e visualizzare i numeri estratti e i premi vinti durante il gioco.
 
 ## 2. Tecnologie Utilizzate
 
