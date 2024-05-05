@@ -18,7 +18,7 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 
 ### Gioco Tabellone
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop" alt="Icona" width="400"/>
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="400"/>
 
 
 
