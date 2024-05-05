@@ -1,4 +1,4 @@
-# Bingo
+# Bingo Bootstrap
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
 ## Icona 
