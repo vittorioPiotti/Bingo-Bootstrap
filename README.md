@@ -4,7 +4,6 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 ## Icona 
 
-[Icona](https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png)
 
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="200"/>
 
@@ -13,7 +12,9 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 ### Scelta Cartelle
 
-[Scelta](https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png)
+
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="200"/>
+
 
 
 ### Scelta Tabellone
