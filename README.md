@@ -5,7 +5,7 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="200"/>
 
 
-## Desktop
+## Sito Desktop
 
 ### Scelta Cartelle
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="400"/>
@@ -22,7 +22,7 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 
 
-## Mobile
+## Sito Mobile
 
 ### Scelta Cartelle
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="400"/>
