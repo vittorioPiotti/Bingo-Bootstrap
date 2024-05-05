@@ -1,24 +1,16 @@
 # Bingo
-
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
 ## Icona 
-
-
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="200"/>
 
 
 ## Desktop
 
 ### Scelta Cartelle
-
-
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="400"/>
 
-
-
 ### Scelta Tabellone
-
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/tabelloneDesktop.png" alt="Icona" width="400"/>
 
 ### Gioco Cartelle
