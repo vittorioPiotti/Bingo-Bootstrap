@@ -1,3 +1,7 @@
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/preview" />
+
+
+
 # Bingo Bootstrap
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
