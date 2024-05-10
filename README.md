@@ -1,4 +1,4 @@
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/preview" />
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/preview.png" />
 
 
 
