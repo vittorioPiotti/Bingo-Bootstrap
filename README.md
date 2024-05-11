@@ -6,7 +6,7 @@
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
 ## Icona 
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="200"/>
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="100"/>
 
 
 
