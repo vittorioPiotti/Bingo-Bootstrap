@@ -23,5 +23,5 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 | Compra Cartelle | Compra Tabellone| Gioca Cartelle | Gioca Tabellone
 | ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCarteleMobile.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneMobile.png" alt="Icona" width="300"/> | 
+| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="200"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCarteMobile.png" alt="Icona" width="200"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneMobile.png" alt="Icona" width="200"/> | 
 
