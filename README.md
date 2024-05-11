@@ -9,6 +9,15 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="200"/>
 
 
+
+
+## Sito Desktop
+
+| Compra Cartelle | Compra Tabellone| Gioca Cartelle | Gioca Tabellone
+| ------------ | ------------ |
+| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="300"/> | 
+
+
 ## Sito Desktop
 
 ### Scelta Cartelle
@@ -24,9 +33,6 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 ### Gioco Tabellone
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="400"/>
 
-
-
-## Sito Mobile
 
 ### Scelta Cartelle
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="400"/>
