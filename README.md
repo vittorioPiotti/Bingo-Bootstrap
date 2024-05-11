@@ -18,22 +18,6 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="300"/> | 
 
 
-## Sito Desktop
-
-### Scelta Cartelle
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="400"/>
-
-### Scelta Tabellone
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/tabelloneDesktop.png" alt="Icona" width="400"/>
-
-### Gioco Cartelle
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCartelleDesktop.png" alt="Icona" width="400"/>
-
-
-### Gioco Tabellone
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="400"/>
-
-
 ### Scelta Cartelle
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleMobile.png" alt="Icona" width="400"/>
 
