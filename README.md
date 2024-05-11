@@ -11,11 +11,20 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 
 
-## Sito Desktop
+## Compra 
 
-| Compra Cartelle | Compra Tabellone| Gioca Cartelle | Gioca Tabellone
-| ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCartelleDesktop.png" alt="Icona" width="300"/>  | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="300"/> | 
+| Cartelle | Tabellone| 
+| ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/cartelleDesktop.png" alt="Icona" width="300"/>  |
+
+
+## Gioca 
+
+| Cartelle | Tabellone| 
+| ------------ | ------------ | 
+| <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoCartelleDesktop.png" alt="Icona" width="300"/> | <img src="https://github.com/vittorioPiotti/Bingo/blob/main/giocoTabelloneDesktop.png" alt="Icona" width="300"/>  |
+
+
 
 
 
