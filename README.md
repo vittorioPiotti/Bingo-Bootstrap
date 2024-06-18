@@ -1,5 +1,3 @@
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/socialpreview.png" />
-
 
 
 # Bingo Bootstrap
@@ -12,6 +10,12 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 
 ## Icona 
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="100"/>
+
+## Preview
+
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/socialpreview.png" />
+
+
 
 ## Licenze
 
