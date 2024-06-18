@@ -11,7 +11,12 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 ## Icona 
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="100"/>
 
-## Preview
+## Sito Web
+
+Sito Web Bingo: [Link al Sito](https://vittoriopiotti.altervista.org/Bingo/Offline/index.html)
+
+
+---
 
 <img src="https://github.com/vittorioPiotti/Bingo/blob/main/socialpreview.png" />
 
