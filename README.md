@@ -18,7 +18,7 @@ Sito Web Bingo: [Link al Sito](https://vittoriopiotti.altervista.org/Bingo/Offli
 
 ---
 
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/socialpreview.png" />
+<img src="https://github.com/vittorioPiotti/Bingo/blob/main/socialpreview12.png" />
 
 
 
