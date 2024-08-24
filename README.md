@@ -16,8 +16,6 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 [<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
 
-## Icona 
-<img src="https://github.com/vittorioPiotti/Bingo/blob/main/img/icona.png" alt="Icona" width="100"/>
 
 ## Sito Web
 
