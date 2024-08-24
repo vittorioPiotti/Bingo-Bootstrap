@@ -11,7 +11,7 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 > [!TIP]
 > Sito web **Responsive** con modalità **Desktop** e **Mobile**
 
-### Support Me
+## Support Me
 
 [<img width="200" src="https://github.com/vittorioPiotti/vittorioPiotti/blob/main/immagini/support.png"/>](https://ko-fi.com/vittoriopiotti)
 
