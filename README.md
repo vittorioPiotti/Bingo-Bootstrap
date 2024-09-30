@@ -3,7 +3,7 @@
 # Bingo Bootstrap
 
 > [!IMPORTANT]
-> **AI Free**: Questo contenuto è stato creato senza l'ausilio di intelligenza artificiale.
+> **AI Free**
 
 
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
