@@ -4,8 +4,7 @@
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
 > [!NOTE]
-> Il progetto è stato sviluppato a scuola per fini scolastici in funzione della consegna assegnata dal docente come lavoro facoltativo e individuale
-
+> Progetto scolastico
 
 
 > [!TIP]
