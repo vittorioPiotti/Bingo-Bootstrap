@@ -40,9 +40,23 @@ Sito Web Bingo: [Link al Sito](https://vittoriopiotti.altervista.org/Bingo/Offli
 > I contenuti multimediali possono essere soggetti a una **licenza non commerciale** richiedendo l'acquisto di una licenza separata.
 
 
+### Bingo
 
-| Componente         | Versione  | Copyright                         | Licenza                                                       |
-|--------------------|-----------|-----------------------------------|---------------------------------------------------------------|
-| [Bingo](https://github.com/vittorioPiotti/Bingo-Bootstrap) | [v1.0.0](https://github.com/vittorioPiotti/Bingo-Bootstrap/releases/tag/v1.0.0)    | 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)            | [GPL-3.0 ](https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/LICENSE.md) |
-| Bootstrap          | v4.0.0    | 2011-2018 The Bootstrap Authors   | [MIT ](https://github.com/twbs/bootstrap/blob/master/LICENSE) |
+**Copyright** 2024 Vittorio Piotti [(GitHub page)](https://github.com/vittorioPiotti) [(Personal page)](https://vittoriopiotti.altervista.org/)
+
+**Version** [v1.0.0](https://github.com/vittorioPiotti/Bingo-Bootstrap/releases/tag/v1.0.0)
+
+**License** [GPL-3.0](https://github.com/vittorioPiotti/Bingo-Bootstrap/blob/main/LICENSE.md)
+
+---
+
+### Bootstrap
+
+**Copyright** 2011-2018 The Bootstrap Authors 
+
+**Version** [v5.2](https://github.com/twbs/bootstrap/releases/tag/v5.2.0)
+
+**License** [MIT](https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
+
 
