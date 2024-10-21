@@ -21,7 +21,7 @@ Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del T
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P012BC8U)
 
 
-## Sito Web
+## Preview
 
 Sito Web Bingo: [Link al Sito](https://vittoriopiotti.altervista.org/Bingo/Offline/index.html)
 
