@@ -9,7 +9,7 @@
 Bingo SinglePlayer in cui giocare le Cartelle del Botteghino o le Cartelle del Tabellone
 
 > [!NOTE]
-> Progetto scolastico 🎓
+> Progetto scolastico 🎓 · Ⅲ
 
 
 > [!TIP]
